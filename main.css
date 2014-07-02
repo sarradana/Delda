@@ -90,8 +90,7 @@ a:hover {
 	font-size: 30px;
 }
 
-<<<<<<< HEAD
-=======
+
 
 
 .footer-menu {
@@ -100,7 +99,7 @@ a:hover {
   	padding-left: 0;
 }
 
->>>>>>> new
+
 
 /*body*/
 
@@ -238,6 +237,10 @@ h2 {
   ul.sidebar a:hover {
    color:#E6E6E6;
    } 
+   .sub-menu {
+   padding-left:20px;
+   
+    }
    
 
 /*footer*/
@@ -316,9 +319,6 @@ h2 {
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
   /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
-<<<<<<< HEAD
-}
-=======
+
 }
 
->>>>>>> new
